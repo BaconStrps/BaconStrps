@@ -9,4 +9,6 @@ I'm a computer engineering student at Old Dominion University and I am interning
 
 I am extremely interested in how computers function underneath the hood, including bare metal and low-level programming. 
 
-You can find some of my personal projects, and some of my older projects here!
+You can find some of my personal projects, and some of my older projects here!  
+
+<img align="center" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
