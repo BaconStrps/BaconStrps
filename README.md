@@ -11,4 +11,8 @@ I am extremely interested in how computers function underneath the hood, includi
 
 You can find some of my personal projects, and some of my older projects here!  
 
-<img align="center" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
+<p align="center">
+    <img alt="frog gif" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"> </img>
+</p>
+
+
