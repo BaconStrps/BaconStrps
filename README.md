@@ -1,4 +1,4 @@
-## Hi there I'm Jared Cochran!  
+## Hi there! I'm Jared Cochran!  
 
 <a href="https://www.linkedin.com/in/jared-cochran/">
     <img align="left" alt="My LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> </img>
