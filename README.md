@@ -1,15 +1,17 @@
-## Hi there! I'm Jared Cochran!  
+## Hi There! I'm Jared Cochran!  
 
 <a href="https://www.linkedin.com/in/jared-cochran/">
     <img align="left" alt="My LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> </img>
 </a>
 <br><br>
 
-I'm a computer engineering student at Old Dominion University and I am interning at [VMASC](https://vmasc.org/)!
+I'm a Project Scientist at [CISCS](https://sics-c.org/)! I currently do R&D relating to radio communications!
 
-I am extremely interested in how computers function underneath the hood including bare metal and low-level programming as well as working with signals and controls.
+I am extremely interested in how computers interact with the real world through analog signal processing and protocols!
 
-I worked on the [Modelling Religious Change Project](https://mindandculture.org/projects/modeling-social-systems/modeling-religious-change/) with [John Shull](https://github.com/JShull) and am currently working with [Peter Foytik](https://github.com/pfoytik) on new exciting projects!
+I've worked on several projects such as the [Modelling Religious Change Project](https://mindandculture.org/projects/modeling-social-systems/modeling-religious-change/) & [Cyberwind](https://cyberwind.org/).
+
+Currently I am working on several projects relating to EM spectrum security and simulation.
 
 You can find some of my personal projects, and some of my older projects here! 
 
